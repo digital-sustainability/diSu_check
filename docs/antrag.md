@@ -69,7 +69,7 @@ Nein
 
 #### Ausgangslage und Problemstellung
 
-Schweizer Behörden und öffentliche Einrichtungen stehen vor wachsenden Herausforderungen, um ihre **digitale Souveränität** sicherzustellen. Nationale Vorgaben wie das **E-Government-Gesetz (EMBAG)** sowie neuere EU-Regulierungen (z. B. **Cyber Resilience Act – CRA**, **Digital Operational Resilience Act – DORA**) setzen hohe Standards für den Umgang mit Daten, Software und IT-Architekturen. Parallel existieren verschiedene Ansätze und Richtlinien (z. B. DINAcon-Kriterien, OSPO-Guidelines), die jedoch **nicht einheitlich** angewandt oder untereinander abgestimmt sind.
+Schweizer Behörden und öffentliche Einrichtungen stehen vor wachsenden Herausforderungen, um ihre **digitale Souveränität** sicherzustellen. Nationale Vorgaben wie das **E-Government-Gesetz (EMBAG)** sowie neuere EU-Regulierungen (z. B. **Cyber Resilience Act – CRA**, **Digital Operational Resilience Act – DORA**) setzen hohe Standards für den Umgang mit Daten, Software und IT-Architekturen. Parallel existieren verschiedene Ansätze und Richtlinien (z. B. DINAcon-Kriterien, OSPO-Guidelines), die jedoch **nicht einheitlich** angewandt oder systematisch untereinander abgestimmt sind.
 
 #### Innovationsidee
 
@@ -93,7 +93,7 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 - In Zusammenarbeit mit unserer Forschungseinrichtung (z. B. BFH) analysieren wir vorhandene **Modelle und Rahmenwerke** (EMBAG, DINAcon-Kriterien etc.).
 
-- Ziel ist ein **stringentes, modulares** Konzept, das alle relevanten Aspekte digitaler Souveränität abdeckt (z. B. Open-Source-Compliance, Datensicherheit, rechtliche Vorgaben).
+- Ziel ist ein **stringentes, modulares** Konzept, das alle relevanten Aspekte digitaler Souveränität abdeckt (z. B. Software-Resilienz, Datensicherheit, rechtliche Vorgaben).
 
 2.  **Entwicklung der Befragungsmethodik**
 
@@ -159,7 +159,7 @@ Zwar existieren verschiedene Publikationen und Leitfäden zu Themen wie digitale
 
 - **Unzureichende Praxistests**: Bisherige Ansätze berücksichtigen selten, **wie** eine Behörde vorgeht, um von einer Ist- zu einer Soll-Situation (mehr Souveränität) zu gelangen.
 
-Unser Projekt schließt genau diese Lücke und schafft einen **neuartigen Leitfaden**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
+Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Leitfaden**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
 
 [1] https://embag-check.ch
 
@@ -171,11 +171,11 @@ Unser Projekt schließt genau diese Lücke und schafft einen **neuartigen Leitfa
 
 >  What benefits is the preliminary study expected to provide for your company?
 
-Unser Umsetzungspartner APP (z. B. eine Beratungsfirma oder IT-Dienstleister) erhält durch das Projekt:
+Unser Umsetzungspartner APP erhält durch das Projekt:
 
 1.  **Klare Positionierung am Markt**
 
-- Mit dem **fundierten Leitfaden** kann der Partner Dienstleistungen in den Bereichen **digitale Souveränität** und **Open-Source-Compliance** anbieten.
+- Mit dem **fundierten Leitfaden** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
 
 - Dies verschafft einen **Vorsprung** in einem wachsenden Markt, wo öffentliche Institutionen zunehmend Beratungsbedarf haben.
 
