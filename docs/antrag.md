@@ -73,7 +73,7 @@ Schweizer Behörden und öffentliche Einrichtungen stehen vor wachsenden Herausf
 
 #### Innovationsidee
 
-Unser Vorhaben ist die Entwicklung eines **Leitfadens** bzw. **Fragenkatalogs**, mit dem Behörden und Organisationen ihren **Reifegrad in Sachen digitaler Souveränität** einschätzen können. Dabei berücksichtigen wir:
+Unser Vorhaben ist die Entwicklung eines **Fragenkatalogs** sowie Durchführung einer Umfrage, mit welcher der **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität** von Behörden und Organisationen eingeschätzt werden kann. Dabei berücksichtigen wir:
 
 - **Bestehende Standards und Modelle** (z. B. EMBAG-Check, DINAcon Kriterien, OSPO-Best Practices) und integrieren diese in einer **praxisnahen, verständlichen Form**.
 
@@ -81,7 +81,7 @@ Unser Vorhaben ist die Entwicklung eines **Leitfadens** bzw. **Fragenkatalogs**,
 
 - **Schweizer Spezifika** wie föderale Strukturen, die Rolle von Open Source in der öffentlichen Verwaltung und lokale Gesetzgebungen.
 
-Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende Leitfäden und Kriterien in einem **kohärenten, leicht handhabbaren Konzept** zusammenführt. Über eine begleitende Befragung (Umfrage / Interviews) wollen wir zudem wissenschaftlich belastbare Einblicke gewinnen, die den Leitfaden kontinuierlich verbessern.
+Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende Leitfäden und Kriterien in einem **kohärenten, leicht handhabbaren Konzept** zusammenführt. Über eine begleitende Befragung (Umfrage / Interviews) wollen wir zudem wissenschaftlich belastbare Einblicke gewinnen, wie der **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität** in der Schweiz einzuschätzen ist.
 
 ### Umsetzbarkeit der Resultate / Aufgabe des Forschungspartners
 
