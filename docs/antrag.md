@@ -99,7 +99,7 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 - Die Hochschule übernimmt die **wissenschaftliche Methodik** zur Erstellung des Fragenkatalogs.
 
-- Dabei werden **qualitative** (Interviews, Fokusgruppen) und **quantitative** Methoden (Umfragen, statistische Auswertung) kombiniert, um die Validität des Leitfadens zu sichern.
+- Dabei werden **qualitative** (Interviews, Fokusgruppen) und **quantitative** Methoden (Umfragen, statistische Auswertung) kombiniert, um die Validität des Fragenkatalogs zu sichern.
 
 3.  **Pilotphase und Validierung**
 
@@ -191,13 +191,13 @@ Unser Umsetzungspartner APP erhält durch das Projekt:
 
 - Auf Basis des validierten Katalogs ergeben sich **Folgeprojekte**, z. B. Implementierungsbegleitung, rechtliche Beratung oder vertiefte Audits.
 
-- Ein **Nachfolge-Innovationsprojekt** könnte den Leitfaden weiterentwickeln, etwa durch Automatisierungen oder zusätzliche Fachmodule.
+- Ein **Nachfolge-Innovationsprojekt** könnte den Fragenkatalog weiterentwickeln, etwa durch Automatisierungen oder zusätzliche Fachmodule.
 
 3.  **Langfristige Wertschöpfung**
 
-- Die wissenschaftlich erhobenen Daten bieten ein solides Fundament, um den Leitfaden kontinuierlich zu verbessern und an neue Regulierungen anzupassen.
+- Die wissenschaftlich erhobenen Daten bieten ein solides Fundament, um den Fragenkatalog kontinuierlich zu verbessern und an neue Regulierungen anzupassen.
 
-- Der Umsetzungspartner profitiert von einer **nachhaltigen Kundenbindung**, da Behörden den Leitfaden periodisch nutzen können (z. B. jährliches Update des digitalen Reifegrads).
+- Der Umsetzungspartner profitiert von einer **nachhaltigen Kundenbindung**, da der Reifegrad von Behörden und Organisationen periodisch mit Hilfe des Fragenkatalogs beurteilt werden kann (z. B. jährliches Update des digitalen Reifegrads).
 
 Auf diese Weise steigert das Projekt sowohl die **wirtschaftliche** als auch die **innovatorische** Leistungsfähigkeit des Umsetzungspartners, indem es ein **dringendes und aktuelles Thema** (digitale Souveränität) adressiert.
 
