@@ -73,7 +73,7 @@ Schweizer Behörden und öffentliche Einrichtungen stehen vor wachsenden Herausf
 
 #### Innovationsidee
 
-Unser Vorhaben ist die Entwicklung eines **Leitfadens** bzw. **Fragenkatalogs**, mit dem Behörden und Organisationen ihren **Reifegrad in Sachen digitaler Souveränität** einschätzen können. Dabei berücksichtigen wir:
+Unser Vorhaben ist die Entwicklung eines **Fragenkatalogs** sowie Durchführung einer Umfrage, mit welcher der **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität** von Behörden und Organisationen eingeschätzt werden kann. Dabei berücksichtigen wir:
 
 - **Bestehende Standards und Modelle** (z. B. EMBAG-Check, DINAcon Kriterien, OSPO-Best Practices) und integrieren diese in einer **praxisnahen, verständlichen Form**.
 
@@ -81,7 +81,7 @@ Unser Vorhaben ist die Entwicklung eines **Leitfadens** bzw. **Fragenkatalogs**,
 
 - **Schweizer Spezifika** wie föderale Strukturen, die Rolle von Open Source in der öffentlichen Verwaltung und lokale Gesetzgebungen.
 
-Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende Leitfäden und Kriterien in einem **kohärenten, leicht handhabbaren Konzept** zusammenführt. Über eine begleitende Befragung (Umfrage / Interviews) wollen wir zudem wissenschaftlich belastbare Einblicke gewinnen, die den Leitfaden kontinuierlich verbessern.
+Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende Leitfäden und Kriterien in einem **kohärenten, leicht handhabbaren Konzept** zusammenführt. Über eine begleitende Befragung (Umfrage / Interviews) wollen wir zudem wissenschaftlich belastbare Einblicke gewinnen, wie der **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität** in der Schweiz einzuschätzen ist.
 
 ### Umsetzbarkeit der Resultate / Aufgabe des Forschungspartners
 
@@ -89,7 +89,7 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 #### Vorgehensweise
 
-1.  **Konzeption des Leitfadens / Fragenkatalogs**
+1.  **Konzeption des Fragenkatalogs**
 
 - In Zusammenarbeit mit unserer Forschungseinrichtung (z. B. BFH) analysieren wir vorhandene **Modelle und Rahmenwerke** (EMBAG, DINAcon-Kriterien etc.).
 
@@ -99,23 +99,31 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 - Die Hochschule übernimmt die **wissenschaftliche Methodik** zur Erstellung des Fragenkatalogs.
 
-- Dabei werden **qualitative** (Interviews, Fokusgruppen) und **quantitative** Methoden (Umfragen, statistische Auswertung) kombiniert, um die Validität des Leitfadens zu sichern.
+- Dabei werden **qualitative** (Interviews, Fokusgruppen) und **quantitative** Methoden (Umfragen, statistische Auswertung) kombiniert, um die Validität des Fragenkatalogs zu sichern.
 
 3.  **Pilotphase und Validierung**
 
-- Wir testen den Leitfaden in einer kleinen Gruppe von Behörden/Organisationen, um **Praxistauglichkeit** und **Akzeptanz** zu prüfen.
+- Wir testen in einer kleinen Gruppe von Behörden/Organisationen vorab die **Praxistauglichkeit** und **Akzeptanz**.
 
-- Die Forschungseinrichtung führt die **Datenanalyse** durch und leitet **Optimierungsvorschläge** ab.
+- Mit einer breiter angelegten Umfrage werden quantitative Informationen abgefragt und mittels einer **Datenanalyse** aufbereitet.
 
 4.  **Erstellung einer Dokumentation**
 
 - Abschließend erfolgt eine **strukturiere Zusammenfassung** der Erkenntnisse:
 
-- Wie gut ist der Leitfaden einsetzbar?
+- Wie gut ist der Fragenkatalog einsetzbar?
 
-- Welche Stolpersteine gibt es?
+  - Ableiten von **Optimierungsvorschlägen** für den Fragekatalog.
+  
+    - Welche Stolpersteine gibt es?
+    
+    - Welche Mehrwerte und Verbesserungsmöglichkeiten haben sich gezeigt?
 
-- Welche Mehrwerte und Verbesserungsmöglichkeiten haben sich gezeigt?
+- Einschätzung des **Reifegrads sowie der Handlungsbedarf in Sachen digitaler Souveränität**
+  
+  - Ableiten von Handlungsempfehlungen
+    
+  - erste Priorisierung von möglichen Verbesserungen
 
 #### Rolle des Forschungspartners
 
@@ -133,21 +141,21 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 #### Geplantes Ergebnis
 
-1.  **Leitfaden / Fragenkatalog**
+1.  **Fragenkatalog**
 
-- Eine **strukturiert aufgebaute Checkliste** mit klar formulierten Fragen zu relevanten Aspekten digitaler Souveränität (z. B. Nutzung von Open Source, Sicherheitsstandards, Rechtskonformität).
+- Ein **strukturiert aufgebauter Fragenkatalog** mit klar formulierten Fragen zu relevanten Aspekten digitaler Souveränität (z. B. Nutzung von Open Source, Sicherheitsstandards, Rechtskonformität).
 
 - Eine modulare **Gliederung**, die unterschiedliche Organisationsgrößen und Zuständigkeiten berücksichtigt (z. B. kleine Gemeinde versus kantonale IT).
 
 2.  **Begleitende Dokumentation und Auswertungs-Insights**
 
-- Erläuterungen, Best Practices und Beispiele aus der Pilotphase.
+- Erläuterungen, Best Practices und Beispiele aus der Pilotphase für die Schärfung des Fragenkatalogs.
 
-- Vorschläge, wie Behörden und Unternehmen **gezielte Verbesserungsmaßnahmen** ableiten können.
+- Vorschläge, wie Behörden und Unternehmen **gezielte Verbesserungsmassnahmen** ableiten können.
 
 3.  **Wissenschaftliche Fundierung**
 
-- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Leitfadens, basierend auf dem Befragungsdesign.
+- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Fragenkatalogs, basierend auf dem Befragungsdesign.
 
 - Grundstein für weiterführende Analysen oder ein **Folgeprojekt** (z. B. tiefergehendes Innovationsprojekt bei Innosuisse).
 
@@ -155,11 +163,11 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 Zwar existieren verschiedene Publikationen und Leitfäden zu Themen wie digitaler Nachhaltigkeit und digitaler Souveränität, doch sind diese **meist isoliert** und **nicht speziell** auf die Schweizer Behördenlandschaft zugeschnitten.
 
-- **Fehlende Integration**: Noch nie wurden EMBAG [1], EU-Vorgaben [2] und Open-Source-Initiativen [3] in einem gemeinsamen, **praxisorientierten** Leitfaden vereint.
+- **Fehlende Integration**: Noch nie wurden EMBAG [1], EU-Vorgaben [2] und Open-Source-Initiativen [3] in einem gemeinsamen, **praxisorientierten** Fragenkatalogs vereint.
 
 - **Unzureichende Praxistests**: Bisherige Ansätze berücksichtigen selten, **wie** eine Behörde vorgeht, um von einer Ist- zu einer Soll-Situation (mehr Souveränität) zu gelangen.
 
-Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Leitfaden**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
+Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Fragenkatalogs**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
 
 [1] https://embag-check.ch
 
@@ -173,30 +181,30 @@ Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Leitfa
 
 Unser Umsetzungspartner APP erhält durch das Projekt:
 
-1.  **Klare Positionierung am Markt**
+1.  **Positionierung am Markt**
 
-- Mit dem **fundierten Leitfaden** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
+- Mit dem **fundierten Fragenkatalog** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
 
 - Dies verschafft einen **Vorsprung** in einem wachsenden Markt, wo öffentliche Institutionen zunehmend Beratungsbedarf haben.
 
 2.  **Konkrete Anschlussmöglichkeiten**
 
-- Auf Basis des validierten Leitfadens ergeben sich **Folgeprojekte**, z. B. Implementierungsbegleitung, rechtliche Beratung oder vertiefte Audits.
+- Auf Basis des validierten Katalogs ergeben sich **Folgeprojekte**, z. B. Implementierungsbegleitung, rechtliche Beratung oder vertiefte Audits.
 
-- Ein **Nachfolge-Innovationsprojekt** könnte den Leitfaden weiterentwickeln, etwa durch Automatisierungen oder zusätzliche Fachmodule.
+- Ein **Nachfolge-Innovationsprojekt** könnte den Fragenkatalog weiterentwickeln, etwa durch Automatisierungen oder zusätzliche Fachmodule.
 
 3.  **Langfristige Wertschöpfung**
 
-- Die wissenschaftlich erhobenen Daten bieten ein solides Fundament, um den Leitfaden kontinuierlich zu verbessern und an neue Regulierungen anzupassen.
+- Die wissenschaftlich erhobenen Daten bieten ein solides Fundament, um den Fragenkatalog kontinuierlich zu verbessern und an neue Regulierungen anzupassen.
 
-- Der Umsetzungspartner profitiert von einer **nachhaltigen Kundenbindung**, da Behörden den Leitfaden periodisch nutzen können (z. B. jährliches Update des digitalen Reifegrads).
+- Der Umsetzungspartner profitiert von einer **nachhaltigen Kundenbindung**, da der Reifegrad von Behörden und Organisationen periodisch mit Hilfe des Fragenkatalogs beurteilt werden kann (z. B. jährliches Update des digitalen Reifegrads).
 
 Auf diese Weise steigert das Projekt sowohl die **wirtschaftliche** als auch die **innovatorische** Leistungsfähigkeit des Umsetzungspartners, indem es ein **dringendes und aktuelles Thema** (digitale Souveränität) adressiert.
 
 ## Quellen
 
 ```
-drei Vorgespräche und Workshops (zwischen November 2024 und Januar 2025) mit dem Umsetzungspartner
+vier Vorgespräche und Workshops (zwischen November 2024 und Januar 2025) mit dem Umsetzungspartner
 
 ====
 
