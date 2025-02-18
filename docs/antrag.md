@@ -111,15 +111,19 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 - Abschließend erfolgt eine **strukturiere Zusammenfassung** der Erkenntnisse:
 
-- Wie gut ist der Fragekatalog einsetzbar?
+- Wie gut ist der Fragenkatalog einsetzbar?
 
   - Ableiten von **Optimierungsvorschlägen** für den Fragekatalog.
+  
     - Welche Stolpersteine gibt es?
+    
     - Welche Mehrwerte und Verbesserungsmöglichkeiten haben sich gezeigt?
 
-- Einschätzung **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität**
+- Einschätzung des **Reifegrads sowie der Handlungsbedarf in Sachen digitaler Souveränität**
+  
   - Ableiten von Handlungsempfehlungen
-  - Erste Priorisierung von möglichen Verbesserungen  
+    
+  - erste Priorisierung von möglichen Verbesserungen
 
 #### Rolle des Forschungspartners
 
@@ -139,19 +143,19 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 1.  **Fragenkatalog**
 
-- Eine **strukturiert aufgebaute Checkliste** mit klar formulierten Fragen zu relevanten Aspekten digitaler Souveränität (z. B. Nutzung von Open Source, Sicherheitsstandards, Rechtskonformität).
+- Ein **strukturiert aufgebauter Fragenkatalog** mit klar formulierten Fragen zu relevanten Aspekten digitaler Souveränität (z. B. Nutzung von Open Source, Sicherheitsstandards, Rechtskonformität).
 
 - Eine modulare **Gliederung**, die unterschiedliche Organisationsgrößen und Zuständigkeiten berücksichtigt (z. B. kleine Gemeinde versus kantonale IT).
 
 2.  **Begleitende Dokumentation und Auswertungs-Insights**
 
-- Erläuterungen, Best Practices und Beispiele aus der Pilotphase für die Schärfung des Fragekatalogs.
+- Erläuterungen, Best Practices und Beispiele aus der Pilotphase für die Schärfung des Fragenkatalogs.
 
 - Vorschläge, wie Behörden und Unternehmen **gezielte Verbesserungsmassnahmen** ableiten können.
 
 3.  **Wissenschaftliche Fundierung**
 
-- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Fragekatalogs, basierend auf dem Befragungsdesign.
+- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Fragenkatalogs, basierend auf dem Befragungsdesign.
 
 - Grundstein für weiterführende Analysen oder ein **Folgeprojekt** (z. B. tiefergehendes Innovationsprojekt bei Innosuisse).
 
@@ -159,11 +163,11 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 Zwar existieren verschiedene Publikationen und Leitfäden zu Themen wie digitaler Nachhaltigkeit und digitaler Souveränität, doch sind diese **meist isoliert** und **nicht speziell** auf die Schweizer Behördenlandschaft zugeschnitten.
 
-- **Fehlende Integration**: Noch nie wurden EMBAG [1], EU-Vorgaben [2] und Open-Source-Initiativen [3] in einem gemeinsamen, **praxisorientierten** Leitfaden vereint.
+- **Fehlende Integration**: Noch nie wurden EMBAG [1], EU-Vorgaben [2] und Open-Source-Initiativen [3] in einem gemeinsamen, **praxisorientierten** Fragenkatalogs vereint.
 
 - **Unzureichende Praxistests**: Bisherige Ansätze berücksichtigen selten, **wie** eine Behörde vorgeht, um von einer Ist- zu einer Soll-Situation (mehr Souveränität) zu gelangen.
 
-Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Leitfaden**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
+Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Fragenkatalogs**, der sich an den konkreten Bedürfnissen und Strukturen der Schweizer Verwaltung orientiert. Damit positionieren wir uns **wettbewerbsstark** gegenüber rein theoretischen oder aus dem Ausland importierten Standards.
 
 [1] https://embag-check.ch
 
@@ -179,13 +183,13 @@ Unser Umsetzungspartner APP erhält durch das Projekt:
 
 1.  **Positionierung am Markt**
 
-- Mit dem **fundierten Leitfaden** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
+- Mit dem **fundierten Fragenkatalog** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
 
 - Dies verschafft einen **Vorsprung** in einem wachsenden Markt, wo öffentliche Institutionen zunehmend Beratungsbedarf haben.
 
 2.  **Konkrete Anschlussmöglichkeiten**
 
-- Auf Basis des validierten Leitfadens ergeben sich **Folgeprojekte**, z. B. Implementierungsbegleitung, rechtliche Beratung oder vertiefte Audits.
+- Auf Basis des validierten Katalogs ergeben sich **Folgeprojekte**, z. B. Implementierungsbegleitung, rechtliche Beratung oder vertiefte Audits.
 
 - Ein **Nachfolge-Innovationsprojekt** könnte den Leitfaden weiterentwickeln, etwa durch Automatisierungen oder zusätzliche Fachmodule.
 
