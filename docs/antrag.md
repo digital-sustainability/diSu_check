@@ -89,7 +89,7 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 #### Vorgehensweise
 
-1.  **Konzeption des Leitfadens / Fragenkatalogs**
+1.  **Konzeption des Fragenkatalogs**
 
 - In Zusammenarbeit mit unserer Forschungseinrichtung (z. B. BFH) analysieren wir vorhandene **Modelle und Rahmenwerke** (EMBAG, DINAcon-Kriterien etc.).
 
@@ -103,19 +103,23 @@ Der Ansatz ist neuartig, weil er verschiedene, bislang **separat** existierende 
 
 3.  **Pilotphase und Validierung**
 
-- Wir testen den Leitfaden in einer kleinen Gruppe von Behörden/Organisationen, um **Praxistauglichkeit** und **Akzeptanz** zu prüfen.
+- Wir testen in einer kleinen Gruppe von Behörden/Organisationen vorab die **Praxistauglichkeit** und **Akzeptanz**.
 
-- Die Forschungseinrichtung führt die **Datenanalyse** durch und leitet **Optimierungsvorschläge** ab.
+- Mit einer breiter angelegten Umfrage werden quantitative Informationen abgefragt und mittels einer **Datenanalyse** aufbereitet.
 
 4.  **Erstellung einer Dokumentation**
 
 - Abschließend erfolgt eine **strukturiere Zusammenfassung** der Erkenntnisse:
 
-- Wie gut ist der Leitfaden einsetzbar?
+- Wie gut ist der Fragekatalog einsetzbar?
 
-- Welche Stolpersteine gibt es?
+  - Ableiten von **Optimierungsvorschlägen** für den Fragekatalog.
+    - Welche Stolpersteine gibt es?
+    - Welche Mehrwerte und Verbesserungsmöglichkeiten haben sich gezeigt?
 
-- Welche Mehrwerte und Verbesserungsmöglichkeiten haben sich gezeigt?
+- Einschätzung **Reifegrad sowie der Handlungsbedarf in Sachen digitaler Souveränität**
+  - Ableiten von Handlungsempfehlungen
+  - Erste Priorisierung von möglichen Verbesserungen  
 
 #### Rolle des Forschungspartners
 
@@ -133,7 +137,7 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 #### Geplantes Ergebnis
 
-1.  **Leitfaden / Fragenkatalog**
+1.  **Fragenkatalog**
 
 - Eine **strukturiert aufgebaute Checkliste** mit klar formulierten Fragen zu relevanten Aspekten digitaler Souveränität (z. B. Nutzung von Open Source, Sicherheitsstandards, Rechtskonformität).
 
@@ -141,13 +145,13 @@ Diese enge Zusammenarbeit sichert die **wissenschaftliche Robustheit** des Proje
 
 2.  **Begleitende Dokumentation und Auswertungs-Insights**
 
-- Erläuterungen, Best Practices und Beispiele aus der Pilotphase.
+- Erläuterungen, Best Practices und Beispiele aus der Pilotphase für die Schärfung des Fragekatalogs.
 
-- Vorschläge, wie Behörden und Unternehmen **gezielte Verbesserungsmaßnahmen** ableiten können.
+- Vorschläge, wie Behörden und Unternehmen **gezielte Verbesserungsmassnahmen** ableiten können.
 
 3.  **Wissenschaftliche Fundierung**
 
-- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Leitfadens, basierend auf dem Befragungsdesign.
+- Datengestützte Erkenntnisse zur **Akzeptanz** und **Umsetzbarkeit** des Fragekatalogs, basierend auf dem Befragungsdesign.
 
 - Grundstein für weiterführende Analysen oder ein **Folgeprojekt** (z. B. tiefergehendes Innovationsprojekt bei Innosuisse).
 
@@ -173,7 +177,7 @@ Unser Projekt schliesst genau diese Lücke und schafft einen **neuartigen Leitfa
 
 Unser Umsetzungspartner APP erhält durch das Projekt:
 
-1.  **Klare Positionierung am Markt**
+1.  **Positionierung am Markt**
 
 - Mit dem **fundierten Leitfaden** kann der Partner die Sichtbarkeit von Dienstleistungen in den Bereichen **digitale Souveränität** und **Software-Resilienz** bei Schweizer Behörden erhöhen.
 
@@ -196,7 +200,7 @@ Auf diese Weise steigert das Projekt sowohl die **wirtschaftliche** als auch die
 ## Quellen
 
 ```
-drei Vorgespräche und Workshops (zwischen November 2024 und Januar 2025) mit dem Umsetzungspartner
+vier Vorgespräche und Workshops (zwischen November 2024 und Januar 2025) mit dem Umsetzungspartner
 
 ====
 
